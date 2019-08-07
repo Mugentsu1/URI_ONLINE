@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1047",
+            "request": "launch",
+            "mainClass": "uri_1047",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1046",
+            "request": "launch",
+            "mainClass": "uri_1046",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1045",
+            "request": "launch",
+            "mainClass": "uri_1045",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1009",
+            "request": "launch",
+            "mainClass": "uri_1009",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1001",
+            "request": "launch",
+            "mainClass": "uri_1001",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1002",
+            "request": "launch",
+            "mainClass": "uri_1002",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1003",
+            "request": "launch",
+            "mainClass": "uri_1003",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1004",
+            "request": "launch",
+            "mainClass": "uri_1004",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1044",
+            "request": "launch",
+            "mainClass": "uri_1044",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1043",
+            "request": "launch",
+            "mainClass": "uri_1043",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1042",
+            "request": "launch",
+            "mainClass": "uri_1042",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1041",
+            "request": "launch",
+            "mainClass": "uri_1041",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1040",
+            "request": "launch",
+            "mainClass": "uri_1040",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1016",
+            "request": "launch",
+            "mainClass": "uri_1016",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1038",
+            "request": "launch",
+            "mainClass": "uri_1038",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1037",
+            "request": "launch",
+            "mainClass": "uri_1037",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1036",
+            "request": "launch",
+            "mainClass": "uri_1036",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1035",
+            "request": "launch",
+            "mainClass": "uri_1035",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1021",
+            "request": "launch",
+            "mainClass": "uri_1021",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1020",
+            "request": "launch",
+            "mainClass": "uri_1020",
+            "projectName": "UriOnline_1155ffeb",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "externalTerminal"
+        }
+    ]
+}
