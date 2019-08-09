@@ -11,7 +11,7 @@ Entrada
 Quatro números inteiros representando a hora de início e fim do jogo.
 
 Saída
-Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
+Mostre a seguinte mensagem: “O JOGO DUROU HORA(S) E  MINUTO(S)” .
 
 --------------------------------------------------------------------------------
 ||||    Exemplo de Entrada  	Exemplo de Saída                            ||||
@@ -26,20 +26,26 @@ import java.util.Scanner;
 public class uri_1047{
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
-        int hora_inicio, min_inicio, hora_fim, min_fim;
-        int HORAS = hora_inicio * 60 + min_inicio;
-        int MINUTOS = hora_fim * 60 + min_fim;
+        int hora_inicio, min_inicio, hora_fim, min_fim, todos_minutos_inicio, todos_minutos_fim, diferenca_minutos;
 
         hora_inicio = entrada.nextInt();
         min_inicio = entrada.nextInt();
+        todos_minutos_inicio = hora_inicio * 60 + min_inicio;
+
         hora_fim = entrada.nextInt();
         min_fim = entrada.nextInt();
+        todos_minutos_fim = hora_fim * 60 + min_fim;
 
-        
+        diferenca_minutos = (24 * 60 - todos_minutos_inicio) + todos_minutos_fim;
 
- 
+        int horas = diferenca_minutos / 60;
+        int minutos = diferenca_minutos %60;
 
-        
+        if(horas >= 24 & minutos >=1){
+            horas = horas%24;
+        }
+
+        System.out.printf("O JOGO DUROU %s HORA(S) E %s MINUTO(S)\n", horas, minutos);       
 
     entrada.close();
     }
