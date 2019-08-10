@@ -49,8 +49,9 @@ public class uri_1009{
 
         Real = (salario + vendas * 0.15);
 
+        System.out.println(vendedor);
         System.out.printf("TOTAL = R$ %.2f\n", Real);
-
+        
         entrada.close();
     }
 }

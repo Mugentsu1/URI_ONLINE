@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - uri_1052",
+            "request": "launch",
+            "mainClass": "uri_1052",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1051",
+            "request": "launch",
+            "mainClass": "uri_1051",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1009",
+            "request": "launch",
+            "mainClass": "uri_1009",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - uri_1050",
             "request": "launch",
             "mainClass": "uri_1050",
