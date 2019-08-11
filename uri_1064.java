@@ -31,7 +31,7 @@ public class uri_1064{
         double n, soma=0.0, media;
         int x=0;
 
-        for(int i=1; i<6; i++){
+        for(int i=0; i<6; i++){
             n = entrada.nextDouble();
             if(n > 0.0){
                 x++;
@@ -42,6 +42,8 @@ public class uri_1064{
         System.out.printf(x + "%d valores positivos");
         System.out.println(media);        
 
+        // erro não encontrado. 
+        // Codigo funcionando
 
 entrada.close();    
     }

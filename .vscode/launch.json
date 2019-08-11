@@ -6,12 +6,60 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - uri_1073",
+            "request": "launch",
+            "mainClass": "uri_1073",
+            "projectName": "URI_ONLINE_5c5eecbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1072",
+            "request": "launch",
+            "mainClass": "uri_1072",
+            "projectName": "URI_ONLINE_5c5eecbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1071",
+            "request": "launch",
+            "mainClass": "uri_1071",
+            "projectName": "URI_ONLINE_5c5eecbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1070",
+            "request": "launch",
+            "mainClass": "uri_1070",
+            "projectName": "URI_ONLINE_5c5eecbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1067",
+            "request": "launch",
+            "mainClass": "uri_1067",
+            "projectName": "URI_ONLINE_5c5eecbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1066",
+            "request": "launch",
+            "mainClass": "uri_1066",
+            "projectName": "URI_ONLINE_5c5eecbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1065",
+            "request": "launch",
+            "mainClass": "uri_1065",
+            "projectName": "URI_ONLINE_5c5eecbc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - uri_1064",
             "request": "launch",
             "mainClass": "uri_1064",
             "projectName": "URI_ONLINE_5d369b5a",
             "console": "externalTerminal"
-            
         },
         {
             "type": "java",
