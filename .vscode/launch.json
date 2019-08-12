@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - uri_1075",
+            "request": "launch",
+            "mainClass": "uri_1075",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - uri_1074",
             "request": "launch",
             "mainClass": "uri_1074",
