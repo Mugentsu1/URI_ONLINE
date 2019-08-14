@@ -39,23 +39,13 @@ import java.util.Scanner;
 public class uri_1094{
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
-        int N, C=0, R=0, S=0, soma, E;
-        char t;
+        // int N, C=0, R=0, S=0, soma=0, E;
+        // char t;
 
-        N = entrada.nextInt();
+       // N = entrada.nextInt();
 
-        for(int i=1; i<=N; i++){
-            soma += E;
-            if(t == 'C'){
-                C += E;
-            }
-            else if(t == 'R'){
-                R += E;
-            }
-            else if(t == 'S'){
-                S += E;
-            }
-        }
+        // for(int i=1; i<=N; i++){
+        //}
 
 
 
@@ -68,7 +58,7 @@ public class uri_1094{
         System.out.printf("Percentual de ratos: %.2f\n, R");
         System.out.printf("Percentual de sapos: %.2f\n, S");
         
-
+            //Atividade incompleta
 
 
 entrada.close();
