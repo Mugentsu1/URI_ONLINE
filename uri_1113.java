@@ -21,20 +21,23 @@ caso contrário imprima a mensagem “Decrescente”.
 --------------------------------------------------------------------
 */
 import java.util.Scanner;
-public class uri_1103{
+public class uri_1113{
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
         int X , Y;
-        X = entrada.nextInt();
-        Y = entrada.nextInt();
 
-        if(X > Y){
-            System.out.println("Descrescente");
-        }
-        else if(Y < X){
-            System.out.println("Crescente");
-        }
+        do{
+            X = entrada.nextInt();
+            Y = entrada.nextInt();
 
+            if(X < Y){
+                System.out.println("Crescente");
+            }
+            else if(X > Y){
+                System.out.println("Decrescente");
+            }
+        }
+        while(X != Y);
 
 entrada.close();       
     }

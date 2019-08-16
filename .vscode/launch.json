@@ -6,6 +6,78 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - uri_1134",
+            "request": "launch",
+            "mainClass": "uri_1134",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1133",
+            "request": "launch",
+            "mainClass": "uri_1133",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1132",
+            "request": "launch",
+            "mainClass": "uri_1132",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1118",
+            "request": "launch",
+            "mainClass": "uri_1118",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1117",
+            "request": "launch",
+            "mainClass": "uri_1117",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1116",
+            "request": "launch",
+            "mainClass": "uri_1116",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1115",
+            "request": "launch",
+            "mainClass": "uri_1115",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1114",
+            "request": "launch",
+            "mainClass": "uri_1114",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uri_1103",
+            "request": "launch",
+            "mainClass": "uri_1103",
+            "projectName": "URI_ONLINE_5d369b5a",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - uri_1103",
             "request": "launch",
             "mainClass": "uri_1103",
