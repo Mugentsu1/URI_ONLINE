@@ -29,7 +29,7 @@ public class uri_1134{
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
         int Alcool = 0, Gasolina = 0,Diesel = 0, codigo = 0;
-
+        
         codigo = entrada.nextInt();
 
         //Informar mensagem de codigo invalido se for menor que 1 e superior a 4;
